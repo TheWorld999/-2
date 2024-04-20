@@ -1,4 +1,5 @@
 #шутер
+
 from pygame import *
 from random import *
 from time import time as timer  
